@@ -1,0 +1,6 @@
+id=RecordYouSystemizer
+name=RecordYou Screen Recorder systemizer
+version=v1
+versionCode=1
+author=Suhas Dissanayake
+description=Magisk module to install RecordYou as system app to allow internal audio recording using REMOTE_SUBMIX audio source

@@ -1,0 +1,5 @@
+<permissions>
+    <privapp-permissions package="com.bnyro.recorder">
+        <permission name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+    </privapp-permissions>
+</permissions>
